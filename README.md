@@ -6,4 +6,4 @@ Sou Phelipe Queiroz e trabalho como design para web e fotografia.
 #### Imobanco
 Trabalho no front na empresa e com desenvolvimento de E-commerce com PHP
 
-Testando funcionalidade.
+Breve concluo meu readme.
